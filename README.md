@@ -1,4 +1,4 @@
-# hse_mds_projects
+# Higher School of Economics "Master of Data Science" Learning Projects
 
 | Name of the project | Goals | Results |
 | :--- | :--- | :--- |
